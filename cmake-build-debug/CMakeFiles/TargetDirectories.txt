@@ -1,0 +1,9 @@
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/uninstall.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/my_robot_bringup_uninstall.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/test.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/install.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/install/local.dir
+/home/ubuntu/ros2_ws/src/my_robot_bringup/cmake-build-debug/CMakeFiles/install/strip.dir
